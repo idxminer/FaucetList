@@ -14,3 +14,17 @@ D7Ng7vQs4oTmB5SR3GZHkhptHRLjmVACFQ
 ```
 TVjHnGtvJwksB3YxFeW7NGq3nhBqi7jZ9T
 ``` 
+
+#### Zend
+- BTC 
+```
+17cHMWDLXWqRmAaZVdFwdJkKn5iGUWz8ge
+``` 
+- Doge
+```
+DF4fuDcUTakiiGUdt9xq5T7mbGv8CviRPq
+``` 
+- TRX
+```
+TJBrpoHzKoxiCb5SMXx8uSGfWHZptcxRwL
+``` 
